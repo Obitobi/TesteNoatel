@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">TestNoatel</string>
+  <string name="TitleToolbar">TestNoatel Login</string>
+  <string name="TitleToolbarContacts">TestNoatel Contacts</string>
+  <string name="lblUsername">Username</string>
+  <string name="lblSenha">Password</string>
+  <string name="btnAcessar">Login</string>
+  <string name="lblCadastro">Sign up</string>
+  <string name="btnCadastrarContato">Register contact</string>
+  <string name="lblNome">Name</string>
+  <string name="lblSobrenome">Lastname</string>
+  <string name="lblTelefone">Phone</string>
+</resources>
